@@ -1,4 +1,3 @@
-###![FlyFrog Logo](https://github.com/Hyper445/FlyFrogSupport/blob/main/Logo1024.png?raw=true =100x20)
 <img src="https://github.com/Hyper445/FlyFrogSupport/blob/main/Logo1024.png?raw=true" width="200" height="200">
 
 # DeveGames - Fly Frog 
