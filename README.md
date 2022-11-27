@@ -1,4 +1,4 @@
-![FlyFrog Logo](https://github.com/Hyper445/FlyFrogSupport/blob/main/Logo1024.png?raw=true)
+![FlyFrog Logo](https://github.com/Hyper445/FlyFrogSupport/blob/main/Logo1024.png?raw=true =100x20)
 
 # DeveGames - Fly Frog 
 
